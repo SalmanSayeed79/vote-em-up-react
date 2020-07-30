@@ -14,3 +14,6 @@ An app for all your voting needs
 <h1>Future Updates</h1>
  <p>-The top-bar will show the user's name</p>
 <p>-Each user will be able to vote only once</p>
+
+<h1>Demonstration</h1>
+[click here](https://salmansayeed79.github.io/vote-em-up-react/)
