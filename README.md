@@ -11,6 +11,6 @@ An app for all your voting needs
 -"See Results" will redirect to another page that'll contain the results</p>
 -The results will be ordered according to the votes</p>
 
-<h3>Future Updates<h3>
-  <p>-The top-bar will show the user's name</p>
-<p>-Each user will be able to vote only once<p/>
+<h1>Future Updates<h1>
+ <p>-The top-bar will show the user's name</p>
+<p>-Each user will be able to vote only once</p>
